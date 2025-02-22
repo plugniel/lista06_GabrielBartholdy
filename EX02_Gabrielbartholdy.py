@@ -14,3 +14,4 @@ perg2 = int(input('informe um numero de 0 a 9 para exibir um produto da lista: '
 if 0 <= perg2 < len(produto):
     print('o produto é: {}'.format(produto[perg2]))
 
+print('gabriel Bartholdy')

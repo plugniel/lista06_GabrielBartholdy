@@ -30,3 +30,5 @@ if Nomelista in festa:
     elif Compafesta == 'n':
         festa.remove(Compafesta)
         print(festa)
+
+print('gabriel Bartholdy')
